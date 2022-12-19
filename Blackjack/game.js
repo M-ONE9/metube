@@ -2,12 +2,12 @@
 let player={
     Name:"Mj",
      Chips:145,
-     sayHello:function(){
-        console.log("Hey")
-     }
+//      sayHello:function(){
+//         console.log("Hey")
+//      }
    
-    }
-player.sayHello()
+//     }
+// player.sayHello()
 let cards = []
 let sum = getRandomCard()
 let hashBlackjack = false
